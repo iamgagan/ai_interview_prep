@@ -25,12 +25,12 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-interview-prep.git
+   git clone https://github.com/yourusername/ai_interview_prep.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd ai-interview-prep
+   cd ai_interview_prep
    ```
 
 3. Install the required dependencies:
